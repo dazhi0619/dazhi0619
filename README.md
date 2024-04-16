@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dazhi0619&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **dazhi0619/dazhi0619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
